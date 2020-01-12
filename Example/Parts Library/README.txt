@@ -1,0 +1,1 @@
+This is an example of how to use a repo for solidworks
