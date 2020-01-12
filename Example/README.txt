@@ -5,4 +5,4 @@ assemblies
 top, middle, bottom
 
 parts
-tread, tread, belt, axle, base, turret, barrel, hatch
+tread, tread belt, axle, base, turret, barrel, hatch
