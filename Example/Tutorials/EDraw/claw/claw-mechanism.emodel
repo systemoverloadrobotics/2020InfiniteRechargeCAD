@@ -1,0 +1,14 @@
+<FRAMES>
+	<FRAME Name="ExplodeSteps" Config="Default" Played="0">
+		<COMPONENTFRAME Name="ExplodeStep0" Target="claw-mechanism/con-rod-1">
+			<Translation Time="0.000000" x="-0.038100"  y="-0.000000"  z="0.065991" />
+		</COMPONENTFRAME>
+		<COMPONENTFRAME Name="ExplodeStep1" Target="claw-mechanism/claw-1">
+			<Translation Time="0.000000" x="-0.038100"  y="-0.000000"  z="0.065991" />
+			<Translation Time="1.000000" x="-0.038100"  y="-0.000000"  z="0.065991" />
+		</COMPONENTFRAME>
+		<COMPONENTFRAME Name="ExplodeStep2" Target="claw-mechanism/collar-1">
+			<Translation Time="0.000000" x="0.000000"  y="0.228273"  z="0.000000" />
+		</COMPONENTFRAME>
+	</FRAME>
+</FRAMES>
